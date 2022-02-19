@@ -46,14 +46,14 @@
             <div class="subtitle">平面設計</div>
             <h2 class="fs-1 fw-bold pb-3 pb-md-5">Graphic Design</h2>
             <div class="row">
-              <div class="col-md-6 col-12 pb-5" v-for="item in newData" :key="item.id">
-                <a :href="item.link">
+              <div class="col-md-6 col-12 pb-5" v-for="item in graphicData" :key="item.id">
+                <a :href="item.path">
                   <div class="product-img">
-                    <img :src="item.imgIndex" :alt="item.alt" />
+                    <img src="" alt="item.alt" />
                   </div>
                 </a>
-                <h3 class="pt-2 pt-mb-3">{{ item.chTitle }}</h3>
-                <p class="text-secondary fs-7 pt-2">{{ item.enTitle }}</p>
+                <h3 class="pt-2 pt-mb-3">{{}}</h3>
+                <p class="text-secondary fs-7 pt-2">{{}}</p>
               </div>
               <div class="col text-end pt-2 pt-mb-5">
                 <a class="view-more" href="./graphic-design.html">view more</a>
@@ -93,7 +93,26 @@ export default {
           isActive: false,
         },
       ],
+      graphicData: [],
+      productData: [],
     };
+  },
+  methods: {
+    getData() {
+      this.axios({
+        method: "get",
+        url: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/static/data.json",
+      })
+        .then((res) => {
+          this.graphicData = res.data.graphicData;
+        })
+        .catch((err) => {
+          console.log(err);
+        });
+    },
+  },
+  mounted() {
+    this.getData();
   },
 };
 </script>
