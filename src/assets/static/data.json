@@ -6,23 +6,23 @@
       "category": "國片",
       "chTitle": "相愛相親",
       "enTitle": "Love Education",
-      "link": "./graphic-01.html",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/相愛相親/相愛相親-580x580-0.jpg",
+      "path": "./graphic-01.html",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/相愛相親/相愛相親-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA-1000x580-1.jpg",
           "alt": "相愛相親"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/相愛相親/相愛相親-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA-1000x580-2.jpg",
           "alt": "相愛相親"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/相愛相親/相愛相親-1000x580-3.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA-1000x580-3.jpg",
           "alt": "相愛相親"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/相愛相親/相愛相親-1000x580-4.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA-1000x580-4.jpg",
           "alt": "相愛相親"
         }
       ],
@@ -34,19 +34,19 @@
       "category": "日本電影",
       "chTitle": "遊戲人生",
       "enTitle": "NO GAME NO LIFE ZERO",
-      "link": "./graphic-02.html",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/遊戲人生/遊戲人生-580x580-0.jpg",
+      "path": "./graphic-02.html",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/遊戲人生/遊戲人生-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F-1000x580-1.jpg",
           "alt": "遊戲人生"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/遊戲人生/遊戲人生-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F-1000x580-2.jpg",
           "alt": "遊戲人生"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/遊戲人生/遊戲人生-1000x580-3.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F-1000x580-3.jpg",
           "alt": "遊戲人生"
         }
       ],
@@ -58,25 +58,25 @@
       "chTitle": "搖滾樂殺人事件",
       "category": "國片",
       "enTitle": "Killed by Rock and Roll",
-      "link": "./graphic-03.html",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/搖滾樂殺人事件/搖滾樂殺人事件-580x580-0.jpg",
+      "path": "./graphic-03.html",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/搖滾樂殺人事件/搖滾樂殺人事件-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-1000x580-1.jpg",
           "alt": "搖滾樂殺人事件"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/搖滾樂殺人事件/搖滾樂殺人事件-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-1000x580-2.jpg",
           "description": "digipack、書腰正反面",
           "alt": "搖滾樂殺人事件"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/搖滾樂殺人事件/搖滾樂殺人事件-1000x580-3.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-1000x580-3.jpg",
           "description": "digipack展開、圓標",
           "alt": "搖滾樂殺人事件"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/搖滾樂殺人事件/搖滾樂殺人事件-1000x580-4.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-1000x580-4.jpg",
           "alt": "搖滾樂殺人事件"
         }
       ],
@@ -88,21 +88,21 @@
       "category": "國片",
       "chTitle": "范保德",
       "enTitle": "Father to Son",
-      "link": "./graphic-04.html",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/范保德/范保德-580x580-0.jpg",
+      "path": "./graphic-04.html",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%8C%83%E4%BF%9D%E5%BE%B7/%E8%8C%83%E4%BF%9D%E5%BE%B7-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/范保德/范保德-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%8C%83%E4%BF%9D%E5%BE%B7/%E8%8C%83%E4%BF%9D%E5%BE%B7-1000x580-1.jpg",
           "description": "Blu-ray(左) / DVD(右)",
           "alt": "范保德"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/范保德/范保德-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%8C%83%E4%BF%9D%E5%BE%B7/%E8%8C%83%E4%BF%9D%E5%BE%B7-1000x580-2.jpg",
           "description": "digipack正反面、圓標",
           "alt": "范保德"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/范保德/范保德-1000x580-4.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%8C%83%E4%BF%9D%E5%BE%B7/%E8%8C%83%E4%BF%9D%E5%BE%B7-1000x580-4.jpg",
           "description": "劇照內頁",
           "alt": "范保德"
         }
@@ -115,15 +115,15 @@
       "category": "國片",
       "chTitle": "蕭雅全電影作品套裝",
       "enTitle": "Father to Son + Mirror Image",
-      "link": "./graphic-05.html",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/蕭雅全電影作品套裝/蕭雅全電影作品套裝-580x580-0.jpg",
+      "path": "./graphic-05.html",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%95%AD%E9%9B%85%E5%85%A8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%A5%97%E8%A3%9D/%E8%95%AD%E9%9B%85%E5%85%A8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%A5%97%E8%A3%9D-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/蕭雅全電影作品套裝/蕭雅全電影作品套裝-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%95%AD%E9%9B%85%E5%85%A8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%A5%97%E8%A3%9D/%E8%95%AD%E9%9B%85%E5%85%A8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%A5%97%E8%A3%9D-1000x580-1.jpg",
           "alt": "蕭雅全電影作品套裝"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/蕭雅全電影作品套裝/蕭雅全電影作品套裝-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%95%AD%E9%9B%85%E5%85%A8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%A5%97%E8%A3%9D/%E8%95%AD%E9%9B%85%E5%85%A8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%A5%97%E8%A3%9D-1000x580-2.jpg",
           "alt": "蕭雅全電影作品套裝"
         }
       ],
@@ -135,17 +135,17 @@
       "category": "國片",
       "chTitle": "我們的青春在台灣",
       "enTitle": "Our Youth in Taiwan",
-      "link": "./graphic-06.html",
-      "imgIndex": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/我們的青春在台灣/我們的青春在台灣-1000x580-1.jpg",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/我們的青春在台灣/我們的青春在台灣-580x580-0.jpg",
+      "path": "./graphic-06.html",
+      "imgIndexUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3-1000x580-1.jpg",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/我們的青春在台灣/我們的青春在台灣-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3-1000x580-1.jpg",
           "description": "黑箱外盒正面、背面",
           "alt": "我們的青春在台灣"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/我們的青春在台灣/我們的青春在台灣-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3-1000x580-2.jpg",
           "alt": "我們的青春在台灣"
         }
       ],
@@ -157,37 +157,37 @@
       "category": "國片",
       "chTitle": "返校",
       "enTitle": "Detention",
-      "link": "./graphic-07.html",
-      "imgIndex": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/返校/返校-1000x580-0.jpg",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/返校/返校-580x580-0.jpg",
+      "path": "./graphic-07.html",
+      "imgIndexUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-1000x580-0.jpg",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/返校/返校-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-1000x580-1.jpg",
           "description": "Blu-ray(左) / DVD(右)",
           "alt": "返校"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/返校/返校-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-1000x580-2.jpg",
           "description": "digipack、書腰",
           "alt": "返校"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/返校/返校-1000x580-3.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-1000x580-3.jpg",
           "description": "digipack內頁、圓標",
           "alt": "返校"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/返校/返校-1000x580-4.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-1000x580-4.jpg",
           "description": "digipack內頁全展開",
           "alt": "返校"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/返校/返校-1000x580-5.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-1000x580-5.jpg",
           "description": "劇照明信片、歌詞卡",
           "alt": "返校"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/返校/返校-1000x580-6.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-1000x580-6.jpg",
           "description": "行李箱貼紙",
           "alt": "返校"
         }
@@ -200,17 +200,17 @@
       "category": "日本電影",
       "chTitle": "少女與戰車",
       "enTitle": "Girls und Panzer Compilation Movie",
-      "link": "./graphic-08.html",
-      "imgIndex": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/少女與戰車/少女與戰車-1000x580-2.jpg",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/少女與戰車/少女與戰車-580x580-0.jpg",
+      "path": "./graphic-08.html",
+      "imgIndexUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A-1000x580-2.jpg",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/少女與戰車/少女與戰車-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A-1000x580-1.jpg",
           "description": "Blu-ray(左) / DVD(右)",
           "alt": "少女與戰車"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/少女與戰車/少女與戰車-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A-1000x580-2.jpg",
           "alt": "少女與戰車"
         }
       ],
@@ -222,25 +222,25 @@
       "category": "歐美電影",
       "chTitle": "末代皇帝",
       "enTitle": "The Last Emperor",
-      "link": "./graphic-09.html",
-      "imgIndex": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-0.jpg",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-580x580-0.jpg",
+      "path": "./graphic-09.html",
+      "imgIndexUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-0.jpg",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-1.jpg",
           "description": "Blu-ray(左) / DVD(右)",
           "alt": "末代皇帝"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-2.jpg",
           "alt": "末代皇帝"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-3.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-3.jpg",
           "alt": "末代皇帝"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-4.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-4.jpg",
           "alt": "末代皇帝"
         }
       ],
@@ -252,42 +252,42 @@
       "category": "日本電影",
       "chTitle": "妄想代理人",
       "enTitle": "Paranoia Agent",
-      "link": "./graphic-10.html",
-      "imgIndex": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-7.jpg",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-580x580-0.jpg",
+      "path": "./graphic-10.html",
+      "imgIndexUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-7.jpg",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-1.jpg",
           "description": "外紙盒+書腰 正反面",
           "alt": "妄想代理人"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-2.jpg",
           "description": "外紙盒 正反面",
           "alt": "妄想代理人"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-3.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-3.jpg",
           "description": "黏盤、圓標",
           "alt": "妄想代理人"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-4.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-4.jpg",
           "description": "海報劇照明信片",
           "alt": "妄想代理人"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-5.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-5.jpg",
           "description": "圖冊封面、封底",
           "alt": "妄想代理人"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-6.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-6.jpg",
           "description": "圖冊部分內頁",
           "alt": "妄想代理人"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-7.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-7.jpg",
           "alt": "妄想代理人"
         }
       ],
@@ -299,26 +299,26 @@
       "category": "歐美電影",
       "chTitle": "異色大師：大衛柯能堡限量套裝",
       "enTitle": "MASTER OF BODY HORROR: DAVID CRONENBERG COLLECTION",
-      "link": "./graphic-11.html",
-      "imgIndex": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-1.jpg",
-      "imgTop": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/大衛柯能堡套裝/大衛柯能堡套裝-580x580-0.jpg",
+      "path": "./graphic-11.html",
+      "imgIndexUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-1.jpg",
+      "imgTopUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-580x580-0.jpg",
       "imgIntro": [
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-1.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-1.jpg",
           "alt": "大衛柯能堡限量套裝"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-2.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-2.jpg",
           "description": "外紙盒背面、側邊、正面",
           "alt": "大衛柯能堡限量套裝"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-3.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-3.jpg",
           "description": "裸體午餐小海報、圓標",
           "alt": "大衛柯能堡限量套裝"
         },
         {
-          "img": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-4.jpg",
+          "imgUrl": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-4.jpg",
           "description": "超速性追緝小海報、圓標",
           "alt": "大衛柯能堡限量套裝"
         }
@@ -335,8 +335,8 @@
       "category": "bag",
       "chTitle": "進擊的巨人",
       "enTitle": "Attack on Titan",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-AOT-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-AOT-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-AOT-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-AOT-01-580x580-2.jpg",
       "alt": "進擊的巨人"
     },
     {
@@ -347,7 +347,7 @@
       "category": "bag",
       "chTitle": "七龍珠",
       "enTitle": "Dragon Ball Z",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-DBZ-01-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-DBZ-01-580x580-1.jpg",
       "alt": "七龍珠"
     },
     {
@@ -358,8 +358,8 @@
       "category": "bag",
       "chTitle": "斬服少女",
       "enTitle": "Kill la Kill",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-KillLaKill-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-KillLaKill-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-KillLaKill-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-KillLaKill-01-580x580-2.jpg",
       "alt": "斬服少女"
     },
     {
@@ -370,7 +370,7 @@
       "category": "bag",
       "chTitle": "刀劍神域",
       "enTitle": "Sword Art Online",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-SAO-01-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-SAO-01-580x580-1.jpg",
       "alt": "刀劍神域"
     },
     {
@@ -381,8 +381,8 @@
       "category": "bag",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-SailorMoon-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-SailorMoon-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-SailorMoon-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-SailorMoon-01-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -393,8 +393,8 @@
       "category": "bag",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-SailorMoon-02-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-SailorMoon-02-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-SailorMoon-02-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-SailorMoon-02-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -405,7 +405,7 @@
       "category": "bag",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-SailorMoon-03-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-SailorMoon-03-580x580-1.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -416,7 +416,7 @@
       "category": "bag",
       "chTitle": "音速小子",
       "enTitle": "Sonic the Hedgehog",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-Sonic-01-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-Sonic-01-580x580-1.jpg",
       "alt": "音速小子"
     },
     {
@@ -427,7 +427,7 @@
       "category": "bag",
       "chTitle": "音速小子",
       "enTitle": "Sonic the Hedgehog",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Bag-Sonic-02-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Bag-Sonic-02-580x580-1.jpg",
       "alt": "音速小子"
     },
     {
@@ -438,10 +438,10 @@
       "category": "calendar",
       "chTitle": "境界觸發者",
       "enTitle": "World Trigger",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Calendar-WorldTrigger-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Calendar-WorldTrigger-01-580x580-2.jpg",
-      "img03": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Calendar-WorldTrigger-01-580x580-3.jpg",
-      "img04": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Calendar-WorldTrigger-01-580x580-4.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Calendar-WorldTrigger-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Calendar-WorldTrigger-01-580x580-2.jpg",
+      "img03": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Calendar-WorldTrigger-01-580x580-3.jpg",
+      "img04": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Calendar-WorldTrigger-01-580x580-4.jpg",
       "alt": "境界觸發者"
     },
     {
@@ -452,8 +452,8 @@
       "category": "headwear",
       "chTitle": "進擊的巨人",
       "enTitle": "Attack on Titan",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Headwear-AOT-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Headwear-AOT-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Headwear-AOT-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Headwear-AOT-01-580x580-2.jpg",
       "alt": "進擊的巨人"
     },
     {
@@ -464,7 +464,7 @@
       "category": "headwear",
       "chTitle": "黑執事",
       "enTitle": "Black Butler",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Headwear-BB-01-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Headwear-BB-01-580x580-1.jpg",
       "alt": "黑執事"
     },
     {
@@ -475,8 +475,8 @@
       "category": "headwear",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Headwear-SailorMoon-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Headwear-SailorMoon-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Headwear-SailorMoon-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Headwear-SailorMoon-01-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -487,8 +487,8 @@
       "category": "mug",
       "chTitle": "鋼之煉金術師",
       "enTitle": "Fullmetal Alchemist: Brotherhood",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Mug-FMA-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Mug-FMA-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Mug-FMA-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Mug-FMA-01-580x580-2.jpg",
       "alt": "鋼之煉金術師"
     },
     {
@@ -499,8 +499,8 @@
       "category": "mug",
       "chTitle": "航海王",
       "enTitle": "One Piece",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Mug-OP-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Mug-OP-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Mug-OP-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Mug-OP-01-580x580-2.jpg",
       "alt": "航海王"
     },
     {
@@ -511,8 +511,8 @@
       "category": "mug",
       "chTitle": "航海王",
       "enTitle": "One Piece",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Mug-OP-02-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Mug-OP-02-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Mug-OP-02-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Mug-OP-02-580x580-2.jpg",
       "alt": "航海王"
     },
     {
@@ -523,7 +523,7 @@
       "category": "phonecase",
       "chTitle": "進擊的巨人",
       "enTitle": "Attack on Titan",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Phonecase-AOT-01-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Phonecase-AOT-01-580x580-1.jpg",
       "alt": "進擊的巨人"
     },
     {
@@ -534,7 +534,7 @@
       "category": "phonecase",
       "chTitle": "進擊的巨人",
       "enTitle": "Attack on Titan",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Phonecase-AOT-02-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Phonecase-AOT-02-580x580-1.jpg",
       "alt": "進擊的巨人"
     },
     {
@@ -545,7 +545,7 @@
       "category": "phonecase",
       "chTitle": "斬服少女",
       "enTitle": "Kill la Kill",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Phonecase-KillLaKill-01-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Phonecase-KillLaKill-01-580x580-1.jpg",
       "alt": "斬服少女"
     },
     {
@@ -556,7 +556,7 @@
       "category": "phonecase",
       "chTitle": "刀劍神域",
       "enTitle": "Sword Art Online",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Phonecase-SAO-01-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Phonecase-SAO-01-580x580-1.jpg",
       "alt": "刀劍神域"
     },
     {
@@ -567,8 +567,8 @@
       "category": "playing card",
       "chTitle": "化物語",
       "enTitle": "Bakemonogatari",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/PlayingCard-Bakemono-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/PlayingCard-Bakemono-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/PlayingCard-Bakemono-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/PlayingCard-Bakemono-01-580x580-2.jpg",
       "alt": "化物語"
     },
     {
@@ -579,8 +579,8 @@
       "category": "playing card",
       "chTitle": "Free! 男子游泳部",
       "enTitle": "Free!",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/PlayingCard-Free-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/PlayingCard-Free-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/PlayingCard-Free-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/PlayingCard-Free-01-580x580-2.jpg",
       "alt": "Free! 男子游泳部"
     },
     {
@@ -591,8 +591,8 @@
       "category": "playing card",
       "chTitle": "遊戲人生",
       "enTitle": "No Game No Life",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/PlayingCard-NGNL-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/PlayingCard-NGNL-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/PlayingCard-NGNL-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/PlayingCard-NGNL-01-580x580-2.jpg",
       "alt": "遊戲人生"
     },
     {
@@ -603,8 +603,8 @@
       "category": "plush",
       "chTitle": "文豪野犬",
       "enTitle": "Bungo Stray Dogs",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-Bungo-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-Bungo-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-Bungo-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-Bungo-01-580x580-2.jpg",
       "alt": "文豪野犬"
     },
     {
@@ -615,8 +615,8 @@
       "category": "plush",
       "chTitle": "文豪野犬",
       "enTitle": "Bungo Stray Dogs",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-Bungo-02-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-Bungo-02-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-Bungo-02-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-Bungo-02-580x580-2.jpg",
       "alt": "文豪野犬"
     },
     {
@@ -627,8 +627,8 @@
       "category": "plush",
       "chTitle": "招財貓",
       "enTitle": "Lucky Cat",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-Cat-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-Cat-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-Cat-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-Cat-01-580x580-2.jpg",
       "alt": "招財貓"
     },
     {
@@ -639,8 +639,8 @@
       "category": "plush",
       "chTitle": "噬神者",
       "enTitle": "God Eater",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-GodEater-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-GodEater-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-GodEater-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-GodEater-01-580x580-2.jpg",
       "alt": "噬神者"
     },
     {
@@ -651,8 +651,8 @@
       "category": "plush",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-SailorMoon-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-SailorMoon-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-SailorMoon-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-SailorMoon-01-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -663,8 +663,8 @@
       "category": "plush",
       "chTitle": "YURI!!! on ICE",
       "enTitle": "YURI!!! on ICE",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-YuriOnIce-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Plush-YuriOnIce-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-YuriOnIce-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Plush-YuriOnIce-01-580x580-2.jpg",
       "alt": "YURI!!! on ICE"
     },
     {
@@ -675,8 +675,8 @@
       "category": "t-shirt",
       "chTitle": "文豪野犬",
       "enTitle": "Bungo Stray Dogs",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Bungo-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Bungo-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Bungo-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Bungo-01-580x580-2.jpg",
       "alt": "文豪野犬"
     },
     {
@@ -687,8 +687,8 @@
       "category": "t-shirt",
       "chTitle": "七龍珠",
       "enTitle": "Dragon Ball Z",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-DBZ-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-DBZ-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-DBZ-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-DBZ-01-580x580-2.jpg",
       "alt": "七龍珠"
     },
     {
@@ -699,8 +699,8 @@
       "category": "t-shirt",
       "chTitle": "七龍珠",
       "enTitle": "Dragon Ball Z",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-DBZ-02-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-DBZ-02-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-DBZ-02-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-DBZ-02-580x580-2.jpg",
       "alt": "七龍珠"
     },
     {
@@ -711,8 +711,8 @@
       "category": "t-shirt",
       "chTitle": "七龍珠",
       "enTitle": "Dragon Ball Z",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-DBZ-03-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-DBZ-03-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-DBZ-03-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-DBZ-03-580x580-2.jpg",
       "alt": "七龍珠"
     },
     {
@@ -723,8 +723,8 @@
       "category": "t-shirt",
       "chTitle": "福音戰士",
       "enTitle": "Evangelion",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-EVA-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-EVA-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-EVA-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-EVA-01-580x580-2.jpg",
       "alt": "福音戰士"
     },
     {
@@ -735,8 +735,8 @@
       "category": "t-shirt",
       "chTitle": "排球少年!!",
       "enTitle": "Haikyu!!",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Haikyu-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Haikyu-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Haikyu-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Haikyu-01-580x580-2.jpg",
       "alt": "排球少年!!"
     },
     {
@@ -747,8 +747,8 @@
       "category": "t-shirt",
       "chTitle": "排球少年!!",
       "enTitle": "Haikyu!!",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Haikyu-02-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Haikyu-02-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Haikyu-02-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Haikyu-02-580x580-2.jpg",
       "alt": "排球少年!!"
     },
     {
@@ -759,8 +759,8 @@
       "category": "t-shirt",
       "chTitle": "排球少年!!",
       "enTitle": "Haikyu!!",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Haikyu-03-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Haikyu-03-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Haikyu-03-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Haikyu-03-580x580-2.jpg",
       "alt": "排球少年!!"
     },
     {
@@ -771,8 +771,8 @@
       "category": "t-shirt",
       "chTitle": "排球少年!!",
       "enTitle": "Haikyu!!",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Haikyu-04-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Haikyu-04-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Haikyu-04-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Haikyu-04-580x580-2.jpg",
       "alt": "排球少年!!"
     },
     {
@@ -783,8 +783,8 @@
       "category": "t-shirt",
       "chTitle": "高校艦隊",
       "enTitle": "High School Fleet",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-HighSchoolFleet-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-HighSchoolFleet-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-HighSchoolFleet-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-HighSchoolFleet-01-580x580-2.jpg",
       "alt": "高校艦隊"
     },
     {
@@ -795,8 +795,8 @@
       "category": "t-shirt",
       "chTitle": "影子籃球員",
       "enTitle": "Kuroko's Basketball",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Kuroko-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Kuroko-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Kuroko-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Kuroko-01-580x580-2.jpg",
       "alt": "影子籃球員"
     },
     {
@@ -807,8 +807,8 @@
       "category": "t-shirt",
       "chTitle": "影子籃球員",
       "enTitle": "Kuroko's Basketball",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Kuroko-02-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Kuroko-02-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Kuroko-02-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Kuroko-02-580x580-2.jpg",
       "alt": "影子籃球員"
     },
     {
@@ -819,8 +819,8 @@
       "category": "t-shirt",
       "chTitle": "影子籃球員",
       "enTitle": "Kuroko's Basketball",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Kuroko-03-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Kuroko-03-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Kuroko-03-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Kuroko-03-580x580-2.jpg",
       "alt": "影子籃球員"
     },
     {
@@ -831,8 +831,8 @@
       "category": "t-shirt",
       "chTitle": "影子籃球員",
       "enTitle": "Kuroko's Basketball",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Kuroko-04-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-Kuroko-04-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Kuroko-04-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-Kuroko-04-580x580-2.jpg",
       "alt": "影子籃球員"
     },
     {
@@ -843,8 +843,8 @@
       "category": "t-shirt",
       "chTitle": "航海王",
       "enTitle": "One Piece",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-OP-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-OP-01-580x580-1.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-OP-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-OP-01-580x580-1.jpg",
       "alt": "航海王"
     },
     {
@@ -855,8 +855,8 @@
       "category": "t-shirt",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-01-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -867,8 +867,8 @@
       "category": "t-shirt",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-02-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-02-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-02-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-02-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -879,8 +879,8 @@
       "category": "t-shirt",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-03-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-03-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-03-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-03-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -891,8 +891,8 @@
       "category": "t-shirt",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-04-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-04-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-04-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-04-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -903,8 +903,8 @@
       "category": "t-shirt",
       "chTitle": "美少女戰士",
       "enTitle": "Sailor Moon",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-05-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-SailorMoon-05-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-05-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-SailorMoon-05-580x580-2.jpg",
       "alt": "美少女戰士"
     },
     {
@@ -915,8 +915,8 @@
       "category": "t-shirt",
       "chTitle": "YURI!!! on ICE",
       "enTitle": "YURI!!! on ICE",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-YuriOnIce-01-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-YuriOnIce-01-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-YuriOnIce-01-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-YuriOnIce-01-580x580-2.jpg",
       "alt": "YURI!!! on ICE"
     },
     {
@@ -927,8 +927,8 @@
       "category": "t-shirt",
       "chTitle": "YURI!!! on ICE",
       "enTitle": "YURI!!! on ICE",
-      "img01": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-YuriOnIce-02-580x580-1.jpg",
-      "img02": "https://raw.githubusercontent.com/Rosette-xii/mySite/main/assets/images/product/Tshirt-YuriOnIce-02-580x580-2.jpg",
+      "img01Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-YuriOnIce-02-580x580-1.jpg",
+      "img02Url": "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/product/Tshirt-YuriOnIce-02-580x580-2.jpg",
       "alt": "YURI!!! on ICE"
     }
   ]

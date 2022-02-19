@@ -4,7 +4,6 @@ import router from './router'
 import store from './store'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import 'aos/dist/aos.css'
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 
