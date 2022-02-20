@@ -301,7 +301,7 @@ let DATA = {
             enTitle: "MASTER OF BODY HORROR: DAVID CRONENBERG COLLECTION",
             path: "./graphic-11.html",
             imgIndexUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-1.jpg",
-            imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D-580x580-0.jpg",
+            imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-580x580-0.jpg",
             imgIntro: [
                 {
                     imgUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-1.jpg",
