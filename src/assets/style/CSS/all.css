@@ -358,6 +358,7 @@ nav .rotate-bottom {
 
 @media (max-width: 974px) {
   .navbar .nav-item {
+    background-color: rgba(227, 227, 227, 0.9);
     padding: 16px 0;
     text-align: center;
   }
@@ -397,14 +398,14 @@ nav .rotate-bottom {
 }
 
 .carousel-img {
-  height: 300px;
-  max-height: 300px;
+  height: 400px;
+  max-height: 400px;
 }
 
 @media (min-width: 975px) {
   .carousel-img {
-    height: 600px;
-    max-height: 600px;
+    height: 700px;
+    max-height: 700px;
   }
 }
 
@@ -496,13 +497,13 @@ footer {
 .categorySelecter {
   background-color: rgba(227, 227, 227, 0.9);
   padding: 10px 0;
-  top: 77px;
+  top: 70px;
   z-index: 5;
 }
 
 @media (min-width: 975px) {
   .categorySelecter {
-    top: 117px;
+    top: 100px;
   }
 }
 

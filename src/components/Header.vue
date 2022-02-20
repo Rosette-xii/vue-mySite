@@ -2,7 +2,7 @@
   <nav class="position-fixed navbar navbar-expand-lg py-lg-4 w-100">
     <div class="container">
       <h1>
-        <a href="./#"><img src="../assets/images/logo.png" alt="logo" /></a>
+        <a href="/"><img src="../assets/images/logo.png" alt="logo" /></a>
       </h1>
       <button @click="burgerAction()" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="burger-top" :class="{ 'rotate-top': burgerTop }"></span>
@@ -26,22 +26,22 @@ export default {
         {
           id: 1,
           label: "GRAPHIC DESIGN",
-          path: "./graphicDesign",
+          path: "/graphicDesign",
         },
         {
           id: 2,
           label: "PRODUCT DESIGN",
-          path: "./productDesign",
+          path: "/productDesign",
         },
         {
           id: 3,
           label: "ABOUT",
-          path: "./about",
+          path: "/about",
         },
         {
           id: 4,
           label: "CONTACT",
-          path: "./#contact",
+          path: "/",
         },
       ],
       burgerTop: false,
@@ -54,13 +54,20 @@ export default {
       this.burgerBottom = !this.burgerBottom;
     },
     goPath(item) {
-      this.$router.push(item.path);
+      if (item.label != "CONTACT") {
+        this.$router.push(item.path);
+      } else {
+        this.goContact();
+      }
+    },
+    goContact() {
+      document.getElementById("contact").scrollIntoView(true);
     },
   },
   computed: {
     checkPath() {
       return (item) => {
-        return item.path === this.$router.path;
+        return item.path === this.$route.path;
       };
     },
   },
