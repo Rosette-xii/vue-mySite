@@ -1,5 +1,5 @@
 <template>
-  <div id="graphicDesign">
+  <div id="graphic-design">
     <section class="main-title mb-0" id="graphic">
       <div class="container">
         <p>平面設計</p>

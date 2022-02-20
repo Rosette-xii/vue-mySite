@@ -1,5 +1,5 @@
 <template>
-  <nav class="position-fixed navbar navbar-expand-lg py-lg-4 w-100">
+  <nav class="position-fixed navbar navbar-expand-lg py-lg-4 w-100" id="nav">
     <div class="container">
       <h1>
         <a href="/"><img src="../assets/images/logo.png" alt="logo" /></a>
@@ -26,12 +26,12 @@ export default {
         {
           id: 1,
           label: "GRAPHIC DESIGN",
-          path: "/graphicDesign",
+          path: "/graphic-design",
         },
         {
           id: 2,
           label: "PRODUCT DESIGN",
-          path: "/productDesign",
+          path: "/product-design",
         },
         {
           id: 3,
@@ -41,7 +41,7 @@ export default {
         {
           id: 4,
           label: "CONTACT",
-          path: "/",
+          path: "",
         },
       ],
       burgerTop: false,
@@ -59,6 +59,7 @@ export default {
       } else {
         this.goContact();
       }
+      window.scrollTo(0, 0);
     },
     goContact() {
       document.getElementById("contact").scrollIntoView(true);

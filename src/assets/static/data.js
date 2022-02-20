@@ -6,7 +6,7 @@ let DATA = {
             category: "國片",
             chTitle: "相愛相親",
             enTitle: "Love Education",
-            path: "./graphic-01.html",
+            path: "./graphic-design/love-education",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA/%E7%9B%B8%E6%84%9B%E7%9B%B8%E8%A6%AA-580x580-0.jpg",
             imgIntro: [
                 {
@@ -34,7 +34,7 @@ let DATA = {
             category: "日本電影",
             chTitle: "遊戲人生",
             enTitle: "NO GAME NO LIFE ZERO",
-            path: "./graphic-02.html",
+            path: "./graphic-design/no-game-no-life-zero",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F/%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F-580x580-0.jpg",
             imgIntro: [
                 {
@@ -58,7 +58,7 @@ let DATA = {
             chTitle: "搖滾樂殺人事件",
             category: "國片",
             enTitle: "Killed by Rock and Roll",
-            path: "./graphic-03.html",
+            path: "./graphic-design/killed-by-rock-and-roll",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/%E6%90%96%E6%BB%BE%E6%A8%82%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-580x580-0.jpg",
             imgIntro: [
                 {
@@ -88,7 +88,7 @@ let DATA = {
             category: "國片",
             chTitle: "范保德",
             enTitle: "Father to Son",
-            path: "./graphic-04.html",
+            path: "./graphic-design/father-to-son",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%8C%83%E4%BF%9D%E5%BE%B7/%E8%8C%83%E4%BF%9D%E5%BE%B7-580x580-0.jpg",
             imgIntro: [
                 {
@@ -115,7 +115,7 @@ let DATA = {
             category: "國片",
             chTitle: "蕭雅全電影作品套裝",
             enTitle: "Father to Son + Mirror Image",
-            path: "./graphic-05.html",
+            path: "./graphic-design/father-to-son-mirror-image",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%95%AD%E9%9B%85%E5%85%A8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%A5%97%E8%A3%9D/%E8%95%AD%E9%9B%85%E5%85%A8%E9%9B%BB%E5%BD%B1%E4%BD%9C%E5%93%81%E5%A5%97%E8%A3%9D-580x580-0.jpg",
             imgIntro: [
                 {
@@ -135,7 +135,7 @@ let DATA = {
             category: "國片",
             chTitle: "我們的青春在台灣",
             enTitle: "Our Youth in Taiwan",
-            path: "./graphic-06.html",
+            path: "./graphic-design/our-youth-in-taiwan",
             imgIndexUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3-1000x580-1.jpg",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3/%E6%88%91%E5%80%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9C%A8%E5%8F%B0%E7%81%A3-580x580-0.jpg",
             imgIntro: [
@@ -157,7 +157,7 @@ let DATA = {
             category: "國片",
             chTitle: "返校",
             enTitle: "Detention",
-            path: "./graphic-07.html",
+            path: "./graphic-design/detention",
             imgIndexUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-1000x580-0.jpg",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E8%BF%94%E6%A0%A1/%E8%BF%94%E6%A0%A1-580x580-0.jpg",
             imgIntro: [
@@ -200,7 +200,7 @@ let DATA = {
             category: "日本電影",
             chTitle: "少女與戰車",
             enTitle: "Girls und Panzer Compilation Movie",
-            path: "./graphic-08.html",
+            path: "./graphic-design/girls-und-panzer-compilation-movie",
             imgIndexUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A-1000x580-2.jpg",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A/%E5%B0%91%E5%A5%B3%E8%88%87%E6%88%B0%E8%BB%8A-580x580-0.jpg",
             imgIntro: [
@@ -222,7 +222,7 @@ let DATA = {
             category: "歐美電影",
             chTitle: "末代皇帝",
             enTitle: "The Last Emperor",
-            path: "./graphic-09.html",
+            path: "./graphic-design/the-last-emperor",
             imgIndexUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-1000x580-0.jpg",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D/%E6%9C%AB%E4%BB%A3%E7%9A%87%E5%B8%9D-580x580-0.jpg",
             imgIntro: [
@@ -252,7 +252,7 @@ let DATA = {
             category: "日本電影",
             chTitle: "妄想代理人",
             enTitle: "Paranoia Agent",
-            path: "./graphic-10.html",
+            path: "./graphic-design/paranoia-agent",
             imgIndexUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-1000x580-7.jpg",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA/%E5%A6%84%E6%83%B3%E4%BB%A3%E7%90%86%E4%BA%BA-580x580-0.jpg",
             imgIntro: [
@@ -299,7 +299,7 @@ let DATA = {
             category: "歐美電影",
             chTitle: "異色大師：大衛柯能堡限量套裝",
             enTitle: "MASTER OF BODY HORROR: DAVID CRONENBERG COLLECTION",
-            path: "./graphic-11.html",
+            path: "./graphic-design/master-of-body-horror-david-cronenberg-collection",
             imgIndexUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-1000x580-1.jpg",
             imgTopUrl: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/images/graphic/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1%E5%A5%97%E8%A3%9D/%E5%A4%A7%E8%A1%9B%E6%9F%AF%E8%83%BD%E5%A0%A1-580x580-0.jpg",
             imgIntro: [
