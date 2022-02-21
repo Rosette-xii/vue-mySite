@@ -1,6 +1,6 @@
 <template>
   <div id="index">
-    <section class="banner">
+    <section class="banner" data-aos="fade-up" data-aos-duration="800">
       <div class="container">
         <div id="banner" class="carousel slide carousel-fade" data-bs-ride="carousel">
           <div class="carousel-inner">
@@ -31,7 +31,7 @@
                   拓展未來的設計領域。
                 </p>
                 <div class="pt-lg-3 pt-2 align-self-end">
-                  <a href="/about" class="view-more">view more</a>
+                  <a @click.prevent="goPath('/about')" href="#" class="view-more">view more</a>
                 </div>
               </div>
             </div>
@@ -47,7 +47,7 @@
             <h2 class="fs-1 fw-bold pb-3 pb-md-5">Graphic Design</h2>
             <div class="row">
               <div class="col-md-6 col-12 pb-5" v-for="item in graphicData" :key="item.id" data-aos="fade-up" data-aos-duration="800">
-                <a :href="item.path">
+                <a @click.prevent="goPath(item.path)" href="#">
                   <div class="product-img">
                     <img :src="item.imgIndexUrl" :alt="item.alt" />
                   </div>
@@ -56,7 +56,7 @@
                 <p class="text-secondary fs-7 pt-2">{{ item.enTitle }}</p>
               </div>
               <div class="col text-end pt-2 pt-mb-5">
-                <a class="view-more" href="./graphic-design.html">view more</a>
+                <a @click.prevent="goPath('/graphic-design')" href="#" class="view-more">view more</a>
               </div>
             </div>
           </div>
@@ -73,24 +73,15 @@
               <div class="col-lg-4 col-md-6 col-12 pb-4 pb-lg-5" v-for="item in productData" :key="item.id" data-aos="fade-up" data-aos-duration="800">
                 <div :id="item.name" data-bs-interval="false" class="carousel slide" data-bs-ride="carousel">
                   <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <img :src="item.img01Url" class="d-block w-100" :alt="item.alt" />
-                    </div>
-                    <div v-if="item.img02Url" class="carousel-item">
-                      <img :src="item.img02Url" class="d-block w-100" :alt="item.alt" />
-                    </div>
-                    <div v-if="item.img03Url" class="carousel-item">
-                      <img :src="item.img03Url" class="d-block w-100" :alt="item.alt" />
-                    </div>
-                    <div v-if="item.img04Url" class="carousel-item">
-                      <img :src="item.img04Url" class="d-block w-100" :alt="item.alt" />
+                    <div v-for="(img, index) in item.imgIntro" :key="index" class="carousel-item" :class="{ active: index === 0 }">
+                      <img :src="img.imgUrl" class="d-block w-100" :alt="img.alt" />
                     </div>
                   </div>
-                  <button v-if="item.img02Url" class="carousel-control-prev" type="button" :data-bs-target="`#${item.name}`" data-bs-slide="prev">
+                  <button v-if="item.imgIntro.length > 1" class="carousel-control-prev" type="button" :data-bs-target="`#${item.name}`" data-bs-slide="prev">
                     <span class="carousel-arrow" aria-hidden="true"><i class="bi bi-chevron-left"></i></span>
                     <span class="visually-hidden">Previous</span>
                   </button>
-                  <button v-if="item.img02Url" class="carousel-control-next" type="button" :data-bs-target="`#${item.name}`" data-bs-slide="next">
+                  <button v-if="item.imgIntro.length > 1" class="carousel-control-next" type="button" :data-bs-target="`#${item.name}`" data-bs-slide="next">
                     <span class="carousel-arrow" aria-hidden="true"><i class="bi bi-chevron-right"></i></span>
                     <span class="visually-hidden">Next</span>
                   </button>
@@ -100,7 +91,7 @@
                 <span class="badge">{{ item.category }}</span>
               </div>
               <div class="col text-end pt-2 pt-mb-5">
-                <a class="view-more" href="./product-design">view more</a>
+                <a @click.prevent="goPath('/product-design')" href="#" class="view-more">view more</a>
               </div>
             </div>
           </div>
@@ -156,6 +147,10 @@ export default {
         .catch((err) => {
           console.log(err);
         });
+    },
+    goPath(path) {
+      this.$router.push(path);
+      window.scrollTo(0, 0);
     },
   },
   mounted() {

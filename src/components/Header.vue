@@ -10,7 +10,7 @@
       </button>
       <div class="collapse navbar-collapse d-lg-flex justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
-          <li class="px-3 nav-item" v-for="item in linkList" :key="item.id">
+          <li class="px-3 nav-item" :class="{ 'pe-0': item.id === 4 }" v-for="item in linkList" :key="item.id">
             <a @click.prevent="goPath(item)" class="px-0 pb-1 nav-link" :class="{ active: checkPath(item) }" :href="item.path">{{ item.label }}</a>
           </li>
         </ul>
@@ -56,10 +56,10 @@ export default {
     goPath(item) {
       if (item.label != "CONTACT") {
         this.$router.push(item.path);
+        window.scrollTo(0, 0);
       } else {
         this.goContact();
       }
-      window.scrollTo(0, 0);
     },
     goContact() {
       document.getElementById("contact").scrollIntoView(true);
@@ -68,7 +68,11 @@ export default {
   computed: {
     checkPath() {
       return (item) => {
-        return item.path === this.$route.path;
+        if (item.path.substr(0, 15) === "/graphic-design") {
+          return item.path.substr(0, 15) === this.$route.path.substr(0, 15);
+        } else {
+          return item.path === this.$route.path;
+        }
       };
     },
   },

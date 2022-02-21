@@ -72,7 +72,7 @@ section {
   }
 }
 
-h1, h2 {
+h2 {
   letter-spacing: 3px;
 }
 
@@ -247,18 +247,15 @@ a.view-more:hover::after {
   text-transform: uppercase;
 }
 
-.description {
-  margin-top: 200px;
+.description h2 {
+  margin-top: 100px;
+  font-weight: 500;
 }
 
 @media (max-width: 974px) {
-  .description {
-    margin-top: 120px;
+  .description h2 {
+    margin-top: 20px;
   }
-}
-
-.description h2 {
-  font-weight: 500;
 }
 
 .description h3 {
@@ -289,6 +286,22 @@ a.view-more:hover::after {
 @media (max-width: 974px) {
   .everyPage {
     margin-top: 70px;
+  }
+}
+
+h1 {
+  width: 150px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media (max-width: 974px) {
+  h1 {
+    width: 120px;
   }
 }
 
