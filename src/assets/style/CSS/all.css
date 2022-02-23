@@ -552,12 +552,12 @@ footer {
   border-bottom: 1px solid #A68A73;
 }
 
-.profile ul.hobby li {
+.profile ul.hobby li, .profile ul.autobiography li {
   padding-left: 0;
   padding-right: 16px;
 }
 
-.profile ul.hobby li:before {
+.profile ul.hobby li:before, .profile ul.autobiography li:before {
   width: 0px;
   height: 0px;
   left: 0;

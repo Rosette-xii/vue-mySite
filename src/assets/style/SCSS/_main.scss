@@ -336,7 +336,7 @@ footer {
         font-weight: 500;
         border-bottom: 1px solid $second-color;
     }
-    ul.hobby li{
+    ul.hobby li,ul.autobiography li{
         padding-left: 0;
         padding-right: 16px;
         &:before {
