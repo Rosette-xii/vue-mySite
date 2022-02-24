@@ -112,11 +112,10 @@ export default {
         });
     },
     filterCategory(item) {
-      this.category = item.label;
-      this.switchCategory();
+      this.switchCategory(item.label);
     },
-    switchCategory() {
-      switch (this.category) {
+    switchCategory(label) {
+      switch (label) {
         case "包包":
           this.filterData = this.productData.filter((item) => item.chCategory === "包包");
           break;

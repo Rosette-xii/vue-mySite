@@ -139,10 +139,9 @@ export default {
         url: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/static/data.json",
       })
         .then((res) => {
-          this.graphicData = res.data.graphicData.reverse();
-          this.graphicData = this.graphicData.filter((i) => i.isNew);
-          this.productData = res.data.productData;
-          this.productData = this.productData.filter((i) => i.isNew);
+          const { graphicData, productData } = res.data;
+          this.graphicData = graphicData.filter((i) => i.isNew)?.reverse();
+          this.productData = productData.filter((i) => i.isNew);
         })
         .catch((err) => {
           console.log(err);

@@ -82,10 +82,10 @@ export default {
     },
     filterCategory(item) {
       this.category = item.label;
-      this.switchCategory();
+      this.switchCategory(item.label);
     },
-    switchCategory() {
-      switch (this.category) {
+    switchCategory(label) {
+      switch (label) {
         case "國片":
           this.filterData = this.graphicData.filter((item) => item.category === "國片");
           break;
