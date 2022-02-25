@@ -1,7 +1,7 @@
 <template>
   <nav class="position-fixed navbar navbar-expand-lg py-lg-4 w-100" id="nav">
     <div class="container">
-      <h1>
+      <h1 @click="goTop">
         <router-link to="/">
           <img src="../assets/images/logo.png" alt="logo" />
         </router-link>
@@ -58,13 +58,16 @@ export default {
     goPath(item) {
       if (item.label != "CONTACT") {
         this.$router.push(item.path);
-        window.scrollTo(0, 0);
+        this.goTop();
       } else {
         this.goContact();
       }
     },
     goContact() {
       document.getElementById("contact").scrollIntoView(true);
+    },
+    goTop() {
+      window.scrollTo(0, 0);
     },
   },
   computed: {
