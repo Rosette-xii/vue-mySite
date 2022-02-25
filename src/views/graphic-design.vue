@@ -13,7 +13,7 @@
             <a @click.prevent="filterCategory(item)" href="#" class="btn-tag" :class="{ active: category === item.label }">{{ item.label }}</a>
           </li>
         </ul>
-        <select @change="switchCategory()" v-model="category" class="form-select d-md-none" aria-label="categorySelect">
+        <select @change="goTop" v-model="category" class="form-select d-md-none" aria-label="categorySelect">
           <option v-for="item in categoryList" :key="item.id" :value="item.label">{{ item.label }}</option>
         </select>
       </div>
@@ -23,7 +23,7 @@
         <div class="row justify-content-center">
           <div class="col-md-10 col-12">
             <div class="row">
-              <div class="col-lg-4 col-md-6 pb-4 pb-lg-5" v-for="item in filterData" :key="item.id" data-aos="fade-up" data-aos-duration="800">
+              <div class="col-lg-4 col-md-6 pb-4 pb-lg-5" v-for="item in filterGraphicData(graphicData)" :key="item.id" data-aos="fade-up" data-aos-duration="800">
                 <a @click.prevent="goPath(item)" :href="item.path">
                   <div class="product-img-transform">
                     <img :src="item.imgTopUrl" :alt="item.alt" />
@@ -63,8 +63,18 @@ export default {
         },
       ],
       graphicData: [],
-      filterData: [],
     };
+  },
+  computed: {
+    filterGraphicData() {
+      return (data) => {
+        if (this.category === "all") {
+          return data;
+        } else {
+          return data.filter((item) => item.category === this.category);
+        }
+      };
+    },
   },
   methods: {
     getData() {
@@ -74,7 +84,6 @@ export default {
       })
         .then((res) => {
           this.graphicData = res.data.graphicData.reverse();
-          this.filterData = this.graphicData;
         })
         .catch((err) => {
           console.log(err);
@@ -82,28 +91,14 @@ export default {
     },
     filterCategory(item) {
       this.category = item.label;
-      this.switchCategory(item.label);
+      this.goTop();
     },
-    switchCategory(label) {
-      switch (label) {
-        case "國片":
-          this.filterData = this.graphicData.filter((item) => item.category === "國片");
-          break;
-        case "日本電影":
-          this.filterData = this.graphicData.filter((item) => item.category === "日本電影");
-          break;
-        case "歐美電影":
-          this.filterData = this.graphicData.filter((item) => item.category === "歐美電影");
-          break;
-        default:
-          this.filterData = this.graphicData;
-          break;
-      }
+    goTop() {
       window.scrollTo(0, 0);
     },
     goPath(item) {
       this.$router.push(item.path);
-      window.scrollTo(0, 0);
+      this.goTop();
     },
   },
   mounted() {

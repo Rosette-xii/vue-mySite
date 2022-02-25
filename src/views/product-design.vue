@@ -13,7 +13,7 @@
             <a @click.prevent="filterCategory(item)" v-for="item in categoryList" :key="item.id" href="#" class="btn-tag" :class="{ active: category === item.label }">{{ item.label }}</a>
           </li>
         </ul>
-        <select @change="switchCategory()" v-model="category" class="form-select d-md-none" aria-label="categorySelect">
+        <select @change="goTop" v-model="category" class="form-select d-md-none" aria-label="categorySelect">
           <option v-for="item in categoryList" :key="item.id" :value="item.label">{{ item.label }}</option>
         </select>
       </div>
@@ -23,7 +23,7 @@
         <div class="row justify-content-center">
           <div class="col-md-10 col-12">
             <div class="row">
-              <div class="col-lg-4 col-md-6 col-12 pb-4 pb-lg-5" v-for="item in filterData" :key="item.id" data-aos="fade-up" data-aos-duration="800">
+              <div class="col-lg-4 col-md-6 col-12 pb-4 pb-lg-5" v-for="item in filterProductData(productData)" :key="item.id" data-aos="fade-up" data-aos-duration="800">
                 <div :id="item.name" data-bs-interval="false" class="carousel slide" data-bs-ride="carousel">
                   <div class="carousel-inner">
                     <div v-for="(img, index) in item.imgIntro" :key="index" class="carousel-item" :class="{ active: index === 0 }">
@@ -94,8 +94,18 @@ export default {
         },
       ],
       productData: [],
-      filterData: [],
     };
+  },
+  computed: {
+    filterProductData() {
+      return (data) => {
+        if (this.category === "all") {
+          return data;
+        } else {
+          return data.filter((item) => item.chCategory === this.category);
+        }
+      };
+    },
   },
   methods: {
     getData() {
@@ -105,45 +115,16 @@ export default {
       })
         .then((res) => {
           this.productData = res.data.productData;
-          this.filterData = this.productData;
         })
         .catch((err) => {
           console.log(err);
         });
     },
     filterCategory(item) {
-      this.switchCategory(item.label);
+      this.category = item.label;
+      this.goTop();
     },
-    switchCategory(label) {
-      switch (label) {
-        case "包包":
-          this.filterData = this.productData.filter((item) => item.chCategory === "包包");
-          break;
-        case "月曆":
-          this.filterData = this.productData.filter((item) => item.chCategory === "月曆");
-          break;
-        case "帽子":
-          this.filterData = this.productData.filter((item) => item.chCategory === "帽子");
-          break;
-        case "馬克杯":
-          this.filterData = this.productData.filter((item) => item.chCategory === "馬克杯");
-          break;
-        case "手機殼":
-          this.filterData = this.productData.filter((item) => item.chCategory === "手機殼");
-          break;
-        case "撲克牌":
-          this.filterData = this.productData.filter((item) => item.chCategory === "撲克牌");
-          break;
-        case "娃娃":
-          this.filterData = this.productData.filter((item) => item.chCategory === "娃娃");
-          break;
-        case "T-shirt":
-          this.filterData = this.productData.filter((item) => item.chCategory === "T-shirt");
-          break;
-        default:
-          this.filterData = this.productData;
-          break;
-      }
+    goTop() {
       window.scrollTo(0, 0);
     },
   },
