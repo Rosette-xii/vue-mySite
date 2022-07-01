@@ -27,7 +27,7 @@
           </ul>
         </div>
         <div class="col-md-10 col-12 text-end pt-2 pt-mb-5">
-          <a @click.prevent="goPath()" class="view-more" href="#">back</a>
+          <router-link to="/graphic-design" class="view-more">back</router-link>
         </div>
       </div>
     </div>
@@ -48,19 +48,16 @@ export default {
         url: "https://raw.githubusercontent.com/Rosette-xii/vue-mysite/main/src/assets/static/data.json",
       })
         .then((res) => {
-          this.data = res.data.graphicData[5];
+          this.data = res.data.graphicData[this.$route.query.id - 1];
           this.description = this.data.description;
         })
         .catch((err) => {
           console.log(err);
         });
     },
-    goPath() {
-      this.$router.push("../graphic-design");
-      window.scrollTo(0, 0);
-    },
   },
   mounted() {
+    window.scrollTo(0, 0);
     this.getData();
   },
 };

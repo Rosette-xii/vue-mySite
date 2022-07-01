@@ -1,20 +1,22 @@
 @mixin pc {
-    @media(min-width:975px){
-        @content;
-    }
-}
-@mixin mobile {
-    @media(max-width:974px){
+    @media(min-width:993px) {
         @content;
     }
 }
 
-@mixin transition ($second){
+@mixin mobile {
+    @media(max-width:992px) {
+        @content;
+    }
+}
+
+@mixin transition ($second) {
     transition: all $second ease;
 }
 
-@mixin aHoverLine($bg-color,$second) {
+@mixin aHoverLine($bg-color, $second) {
     position: relative;
+
     &::after {
         content: "";
         position: absolute;
@@ -25,13 +27,16 @@
         background-color: $bg-color;
         @include transition($second);
     }
-    &:hover::after{
+
+    &:hover::after {
         width: 100%;
         height: 1px;
     }
 }
-@mixin aHoverWidth($bg-color,$second) {
+
+@mixin aHoverWidth($bg-color, $second) {
     position: relative;
+
     &::after {
         content: "";
         position: absolute;
@@ -42,13 +47,14 @@
         background-color: $bg-color;
         @include transition($second);
     }
-    &:hover::after{
+
+    &:hover::after {
         width: 100%;
         height: 1px;
     }
 }
 
-@mixin aHoverColor($color){
+@mixin aHoverColor($color) {
     &:hover {
         color: $color;
     }

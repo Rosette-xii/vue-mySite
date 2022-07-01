@@ -66,7 +66,7 @@ section {
   margin-bottom: 80px;
 }
 
-@media (min-width: 975px) {
+@media (min-width: 993px) {
   section {
     margin-bottom: 150px;
   }
@@ -133,6 +133,7 @@ a {
 .btn-tag {
   padding: 8px 40px;
   font-size: 14px;
+  cursor: pointer;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
@@ -142,7 +143,7 @@ a {
   color: #e3e3e3;
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   .btn-tag {
     padding: 8px 20px;
   }
@@ -230,7 +231,7 @@ a.view-more:hover::after {
   margin-top: 200px;
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   .main-title {
     margin-top: 120px;
   }
@@ -252,7 +253,7 @@ a.view-more:hover::after {
   font-weight: 500;
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   .description h2 {
     margin-top: 20px;
   }
@@ -283,7 +284,7 @@ a.view-more:hover::after {
   margin-top: 100px;
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   .everyPage {
     margin-top: 70px;
   }
@@ -299,7 +300,7 @@ h1 {
           align-items: center;
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   h1 {
     width: 120px;
   }
@@ -313,7 +314,7 @@ nav {
   background-color: rgba(227, 227, 227, 0.9);
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   nav {
     height: 70px;
     max-height: 70px;
@@ -369,7 +370,7 @@ nav .rotate-bottom {
           box-shadow: none;
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   .navbar .nav-item {
     background-color: rgba(227, 227, 227, 0.9);
     padding: 16px 0;
@@ -400,7 +401,7 @@ nav .rotate-bottom {
   height: 1px;
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   .navbar .nav-link {
     display: inline-block;
   }
@@ -415,7 +416,7 @@ nav .rotate-bottom {
   max-height: 400px;
 }
 
-@media (min-width: 975px) {
+@media (min-width: 993px) {
   .carousel-img {
     height: 700px;
     max-height: 700px;
@@ -492,13 +493,14 @@ footer {
   padding: 100px 0;
 }
 
-@media (max-width: 974px) {
+@media (max-width: 992px) {
   .design-item {
     padding: 30px 0;
   }
 }
 
-.carousel-control-prev, .carousel-control-next {
+.carousel-control-prev,
+.carousel-control-next {
   opacity: .7;
 }
 
@@ -514,7 +516,7 @@ footer {
   z-index: 5;
 }
 
-@media (min-width: 975px) {
+@media (min-width: 993px) {
   .categorySelecter {
     top: 100px;
   }
@@ -524,7 +526,7 @@ footer {
   margin-bottom: 50px;
 }
 
-@media (min-width: 975px) {
+@media (min-width: 993px) {
   .profile .main-info {
     margin-bottom: 100px;
   }
@@ -552,12 +554,14 @@ footer {
   border-bottom: 1px solid #A68A73;
 }
 
-.profile ul.hobby li, .profile ul.autobiography li {
+.profile ul.hobby li,
+.profile ul.autobiography li {
   padding-left: 0;
   padding-right: 16px;
 }
 
-.profile ul.hobby li:before, .profile ul.autobiography li:before {
+.profile ul.hobby li:before,
+.profile ul.autobiography li:before {
   width: 0px;
   height: 0px;
   left: 0;

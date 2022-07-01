@@ -165,5 +165,8 @@ export default {
       return this.myData.skills.web.length - 1;
     },
   },
+  mounted() {
+    window.scrollTo(0, 0);
+  },
 };
 </script>

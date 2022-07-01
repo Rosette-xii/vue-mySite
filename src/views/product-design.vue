@@ -9,8 +9,8 @@
     <section class="categorySelecter position-sticky mb-0">
       <div class="container">
         <ul class="d-none d-md-flex flex-wrap justify-content-start">
-          <li>
-            <a @click.prevent="filterCategory(item)" v-for="item in categoryList" :key="item.id" href="#" class="btn-tag" :class="{ active: category === item.label }">{{ item.label }}</a>
+          <li v-for="item in categoryList" :key="item.id">
+            <p @click="filterCategory(item)" class="btn-tag" :class="{ active: category === item.label }">{{ item.label }}</p>
           </li>
         </ul>
         <select @change="goTop" v-model="category" class="form-select d-md-none" aria-label="categorySelect">
@@ -26,9 +26,7 @@
               <div class="col-lg-4 col-md-6 col-12 pb-4 pb-lg-5" v-for="item in filterProductData(productData)" :key="item.id" data-aos="fade-up" data-aos-duration="800">
                 <div :id="item.name" data-bs-interval="false" class="carousel slide" data-bs-ride="carousel">
                   <div class="carousel-inner">
-                    <div v-for="(img, index) in item.imgIntro" :key="index" class="carousel-item" :class="{ active: index === 0 }">
-                      <img :src="img.imgUrl" class="d-block w-100" :alt="img.alt" />
-                    </div>
+                    <div v-for="(img, index) in item.imgIntro" :key="index" class="carousel-item" :class="{ active: index === 0 }"><img :src="img.imgUrl" class="d-block w-100" loading="lazy" :alt="img.alt" /></div>
                   </div>
                   <button v-if="item.imgIntro.length > 1" class="carousel-control-prev" type="button" :data-bs-target="`#${item.name}`" data-bs-slide="prev">
                     <span class="carousel-arrow" aria-hidden="true"><i class="bi bi-chevron-left"></i></span>

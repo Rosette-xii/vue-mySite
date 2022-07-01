@@ -10,7 +10,8 @@
       <div class="container">
         <ul class="d-none d-md-flex flex-wrap justify-content-around justify-content-md-start">
           <li v-for="item in categoryList" :key="item.id">
-            <a @click.prevent="filterCategory(item)" href="#" class="btn-tag" :class="{ active: category === item.label }">{{ item.label }}</a>
+            <p @click="filterCategory(item)" class="btn-tag" :class="{ active: category === item.label }">{{ item.label }}</p>
+            <!-- <a @click.prevent="filterCategory(item)" href="#" class="btn-tag" :class="{ active: category === item.label }">{{ item.label }}</a> -->
           </li>
         </ul>
         <select @change="goTop" v-model="category" class="form-select d-md-none" aria-label="categorySelect">
@@ -24,11 +25,18 @@
           <div class="col-md-10 col-12">
             <div class="row">
               <div class="col-lg-4 col-md-6 pb-4 pb-lg-5" v-for="item in filterGraphicData(graphicData)" :key="item.id" data-aos="fade-up" data-aos-duration="800">
-                <a @click.prevent="goPath(item)" :href="item.path">
+                <router-link
+                  :to="{
+                    path: '/graphic-design-detail',
+                    query: {
+                      id: item.id,
+                    },
+                  }"
+                >
                   <div class="product-img-transform">
                     <img :src="item.imgTopUrl" :alt="item.alt" />
                   </div>
-                </a>
+                </router-link>
                 <h3 class="pt-2 pt-mb-3">{{ item.chTitle }}</h3>
                 <p class="text-secondary fs-7 pt-2">{{ item.enTitle }}</p>
               </div>
@@ -96,13 +104,10 @@ export default {
     goTop() {
       window.scrollTo(0, 0);
     },
-    goPath(item) {
-      this.$router.push(item.path);
-      this.goTop();
-    },
   },
   mounted() {
     this.getData();
+    this.goTop();
   },
 };
 </script>

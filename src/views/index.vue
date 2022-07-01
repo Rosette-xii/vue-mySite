@@ -31,7 +31,7 @@
                   拓展未來的設計領域。
                 </p>
                 <div class="pt-lg-3 pt-2 align-self-end">
-                  <a @click.prevent="goPath('/about')" href="#" class="view-more">view more</a>
+                  <router-link to="/about" class="view-more">view more</router-link>
                 </div>
               </div>
             </div>
@@ -47,16 +47,22 @@
             <h2 class="fs-1 fw-bold pb-3 pb-md-5">Graphic Design</h2>
             <div class="row">
               <div class="col-md-6 col-12 pb-5" v-for="item in graphicData" :key="item.id" data-aos="fade-up" data-aos-duration="800">
-                <a @click.prevent="goPath(item.path)" href="#">
-                  <div class="product-img">
+                <router-link
+                  :to="{
+                    path: '/graphic-design-detail',
+                    query: {
+                      id: item.id,
+                    },
+                  }"
+                  ><div class="product-img">
                     <img :src="item.imgIndexUrl" :alt="item.alt" />
                   </div>
-                </a>
+                </router-link>
                 <h3 class="pt-2 pt-mb-3">{{ item.chTitle }}</h3>
                 <p class="text-secondary fs-7 pt-2">{{ item.enTitle }}</p>
               </div>
               <div class="col text-end pt-2 pt-mb-5">
-                <a @click.prevent="goPath('/graphic-design')" href="#" class="view-more">view more</a>
+                <router-link to="/graphic-design" class="view-more">view more</router-link>
               </div>
             </div>
           </div>
@@ -91,7 +97,7 @@
                 <span class="badge">{{ item.category }}</span>
               </div>
               <div class="col text-end pt-2 pt-mb-5">
-                <a @click.prevent="goPath('/product-design')" href="#" class="view-more">view more</a>
+                <router-link to="/product-design" class="view-more">view more</router-link>
               </div>
             </div>
           </div>
